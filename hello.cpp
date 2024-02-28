@@ -1,5 +1,5 @@
 
-//iostream is a header file that is part of c++ standard library. Here, it porvides std::cout and std::endl 
+//iostream is a header file that is part of c++ standard library. Here, it provides std::cout and std::endl 
 
 #include <iostream>
 
